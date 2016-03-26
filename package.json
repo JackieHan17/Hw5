@@ -1,0 +1,26 @@
+{
+  "name": "Hw5",
+  "version": "1.0.0",
+  "description": "Rm# Hw5",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"nodemon app.js"
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JackieHan17/Hw5.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JackieHan17/Hw5/issues"
+  },
+  "homepage": "https://github.com/JackieHan17/Hw5#readme",
+  "dependencies": {
+    "ejs": "^2.4.1",
+    "express": "^4.13.4"
+  }
+}
